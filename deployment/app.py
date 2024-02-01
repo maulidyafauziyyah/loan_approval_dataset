@@ -15,10 +15,7 @@ if page == 'Home Page':
         st.header('Welcome Page')
         st.image('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSmzBS6rNnS-WM6H4STTHomATSn51OvU_wM5u8hzsfrHxT8H4FFUjcrGzF1dy6AIC3ZRk&usqp=CAU')
     st.write('')
-    st.header('Milestone 2')
-    st.write('Nama      : Maulidya Fauziyyah')
-    st.write('Batch     : HCK - 011')
-    st.write('Tujuan Milestone 2   : Memprediksi Permohonan Pinjaman Menggunakan Model Klasifikasi')
+    st.write('Tujuan Project   : Memprediksi Permohonan Pinjaman Menggunakan Model Klasifikasi')
     st.write('')
 
     with st.expander("Latar Belakang"):

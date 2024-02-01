@@ -1,7 +1,7 @@
 
 # Assignment Objectives
 
-Projevt ini dibuat guna mengevaluasi konsep Machine Learning sebagai berikut:
+Project ini dibuat guna mengevaluasi konsep Machine Learning sebagai berikut:
 
 - Mampu memahami konsep Machine Learning secara keseluruhan.
 - Mampu mempersiapkan data untuk digunakan dalam model Supervised Learning (Classification atau Regression).
@@ -30,7 +30,7 @@ Dataset diambil dari repository dibawah ini:
 
 ## Assignment Instructions
 
-Milestones 2 dikerjakan dalam format ***notebook*** dan ***Model Deployment*** dengan beberapa *kriteria wajib* di bawah ini:
+Project ini dikerjakan dalam format ***notebook*** dan ***Model Deployment*** dengan beberapa *kriteria* di bawah ini:
 
 1. Machine learning framework yang digunakan adalah *Scikit-Learn*.
 
@@ -59,7 +59,7 @@ Milestones 2 dikerjakan dalam format ***notebook*** dan ***Model Deployment*** d
       > Cell pada bagian ini hanya berisi code untuk melatih model dan output yang dihasilkan. 
    
    8. Model Evaluation
-      > Pada bagian ini, dilakukan evaluasi model yang harus menunjukkan bagaimana performa model berdasarkan metrics yang dipilih. 
+      > Pada bagian ini, dilakukan evaluasi model yang menunjukkan bagaimana performa model berdasarkan metrics yang dipilih. 
 
    9. Model Saving
       > Pada bagian ini, dilakukan proses penyimpanan model dan file-file lain yang terkait dengan hasil proses pembuatan model.
