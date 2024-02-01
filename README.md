@@ -1,18 +1,17 @@
+# Objectives
 
-# Assignment Objectives
+This project is created to evaluate the understanding of the Machine Learning concepts as follows:
 
-Project ini dibuat guna mengevaluasi konsep Machine Learning sebagai berikut:
-
-- Mampu memahami konsep Machine Learning secara keseluruhan.
-- Mampu mempersiapkan data untuk digunakan dalam model Supervised Learning (Classification atau Regression).
-- Mampu mengimplementasikan Supervised Learning (Classification atau Regression) dengan data yang dipilih.
-- Mampu melakukan Hyperparameter Tuning dan Model Improvement.
-- Mampu melakukan Model Deployment.
+- Ability to comprehend the overall concept of Machine Learning.
+- Ability to prepare data for use in Supervised Learning models (Classification or Regression).
+- Ability to implement Supervised Learning (Classification or Regression) with selected data.
+- Ability to perform Hyperparameter Tuning and Model Improvement.
+- Ability to perform Model Deployment.
 
 ---
 
 ## Data Sources
-Dataset diambil dari repository dibawah ini:
+The dataset is obtained from the following repository:
 
 - [Kaggle datasets](Dataset's URL: https://www.kaggle.com/datasetsarchitsharma01/loan-approval-prediction-dataset)
 
@@ -20,54 +19,54 @@ Dataset diambil dari repository dibawah ini:
 
 ## Conceptual Problems
 
-1. Jelaskan latar belakang adanya bagging dan cara kerja bagging !
+1. Explain the background of bagging and how bagging works!
 
-2. Jelaskan perbedaan cara kerja algoritma Random Forest dengan algoritma boosting yang Anda pilih !
+2. Explain the difference in the working mechanism between the Random Forest algorithm and the chosen boosting algorithm!
 
-3. Jelaskan apa yang dimaksud dengan Cross Validation !
+3. Explain what Cross Validation means!
 
 ---
 
-## Assignment Instructions
+## Instructions
 
-Project ini dikerjakan dalam format ***notebook*** dan ***Model Deployment*** dengan beberapa *kriteria* di bawah ini:
+This project is to be conducted in a notebook format and includes Model Deployment with several criteria outlined below:
 
-1. Machine learning framework yang digunakan adalah *Scikit-Learn*.
+1. The machine learning framework used is Scikit-Learn.
 
-2. Ada penggunaan library visualisasi, seperti *matplotlib*, *seaborn*, dan lain-lain.
+2. The use of visualization libraries such as matplotlib, seaborn, and others.
 
-3. Isi project mengikuti *outline* di bawah ini:
-   1. Perkenalan
-      > Bab pengenalan berisi latar belakang dataset.
+3. The project content follows the outlined structure below:
+   1. Introduction
+      > The introduction section contains the dataset background.
    
    2. Import Libraries
-      > *Cell* pertama pada *notebook* berisi semua *library* yang digunakan dalam *project*.
+      > The first cell in the notebook contains all the libraries used in the project.
    
    3. Data Loading
-      > Bagian ini berisi proses penyiapan data sebelum dilakukan eksplorasi data lebih lanjut. Proses Data Loading dapat berupa memberi nama baru untuk setiap kolom, mengecek ukuran dataset, dll.
+      > This section includes the data preparation process before further data exploration. The Data Loading process may involve renaming columns, checking the dataset size, etc.
    
    4. Exploratory Data Analysis (EDA)
-      > Bagian ini berisi explorasi data pada dataset diatas dengan menggunakan query, grouping, visualisasi sederhana, dan lain sebagainya.
+      > This section contains data exploration using queries, grouping, simple visualization, and other exploratory methods.
    
    5. Feature Engineering
-      > Bagian ini berisi proses penyiapan data untuk proses pelatihan model, seperti pembagian data menjadi train-test, transformasi data (normalisasi, encoding, dll.), dan proses-proses lain yang dibutuhkan.   
+      > This section involves preparing data for the model training process, such as data splitting into train-test sets, data transformation (normalization, encoding, etc.), and other necessary processes.
    
    6. Model Definition
-      > Bagian ini berisi cell untuk mendefinisikan model. 
-
+      > This section contains cells to define the model.
+   
    7. Model Training
-      > Cell pada bagian ini hanya berisi code untuk melatih model dan output yang dihasilkan. 
+      > Cells in this section only contain code for model training and the resulting output.
    
    8. Model Evaluation
-      > Pada bagian ini, dilakukan evaluasi model yang menunjukkan bagaimana performa model berdasarkan metrics yang dipilih. 
-
+      > In this section, the model is evaluated based on selected metrics.
+   
    9. Model Saving
-      > Pada bagian ini, dilakukan proses penyimpanan model dan file-file lain yang terkait dengan hasil proses pembuatan model.
+      > This section involves saving the trained model and other related files.
    
    10. Model Inference
-       > Model yang sudah dilatih akan dicoba pada data yang bukan termasuk ke dalam train-set ataupun test-set. 
+       > The trained model is tested on data not included in the train or test set.
    
-   11. Pengambilan Kesimpulan
-       > Pada bagian terakhir ini, berisi kesimpulan yang mencerminkan hasil yang didapat.
+   11. Conclusion
+       > The final section includes conclusions reflecting the obtained results.
 
 ---
